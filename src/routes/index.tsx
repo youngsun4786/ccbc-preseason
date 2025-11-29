@@ -245,7 +245,7 @@ function LandingPage() {
         <div className="mb-8 inline-flex items-center rounded-full border border-white/10 bg-white/5 px-4 py-1.5 backdrop-blur-sm">
           <span className="mr-2 h-2 w-2 rounded-full bg-green-500 shadow-[0_0_8px_rgba(34,197,94,0.5)]" />
           <span className="text-xs font-bold tracking-[0.2em] text-gray-300 uppercase">
-            Calgary Chinese Basketball League Season
+            Calgary Chinese Basketball League Season Asian League Season 5
           </span>
         </div>
 
