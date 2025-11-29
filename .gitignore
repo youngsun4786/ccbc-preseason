@@ -7,8 +7,9 @@ count.txt
 .env
 .nitro
 .tanstack
-.wrangler
 .output
 .vinxi
 todos.json
 .agent
+# Local Netlify folder
+.netlify
