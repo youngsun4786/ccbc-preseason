@@ -10,7 +10,7 @@
     "lint": "eslint",
     "format": "prettier",
     "check": "prettier --write . && eslint --fix",
-    "deploy": "wrangler deploy"
+    "deploy": "build && netlify deploy"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.15",
